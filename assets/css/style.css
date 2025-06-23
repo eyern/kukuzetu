@@ -1371,7 +1371,7 @@ textarea.input-field {
 }
 
 .footer-link {
-  color: var(--quick-silver);
+  color: #fff;
   font-weight: var(--weight-bold);
   text-transform: uppercase;
   letter-spacing: var(--letterSpacing-4);
@@ -1382,7 +1382,7 @@ textarea.input-field {
 .footer-link:is(:hover, :focus-visible) { color: var(--gold-crayola); }
 
 .copyright {
-  color: var(--quick-silver);
+  color: #fff;
   line-height: var(--lineHeight-3);
 }
 
