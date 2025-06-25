@@ -1856,6 +1856,7 @@ textarea.input-field {
   .testi-text {
     max-width: 910px;
     margin-inline: auto;
+    font-size: 25px;
   }
 
 
